@@ -1,0 +1,8 @@
+Total amount of conflicted biome ids: 5
+IDs in conflict:
+
+248 is asked by: Candy Land (stevekung.mods.moreplanets.planets.fronos.worldgen.biome.BiomeGenCandyLand), Undergound Jungle M (erebus.world.biomes.BiomeUndergroundJungle)
+250 is asked by: moon (micdoodle8.mods.galacticraft.core.world.gen.BiomeGenFlatMoon), Subterranean Savannah M (erebus.world.biomes.BiomeSubterraneanSavannah)
+251 is asked by: marsFlat (micdoodle8.mods.galacticraft.planets.mars.world.gen.BiomeGenFlatMars), Elysian Fields M (erebus.world.biomes.BiomeElysianFields)
+252 is asked by: asteroids (micdoodle8.mods.galacticraft.planets.asteroids.world.gen.BiomeGenBaseAsteroids), Ulterior Outback M (erebus.world.biomes.BiomeUlteriorOutback)
+253 is asked by: space (micdoodle8.mods.galacticraft.core.world.gen.BiomeGenBaseOrbit), Fungal Forest M (erebus.world.biomes.BiomeFungalForest)

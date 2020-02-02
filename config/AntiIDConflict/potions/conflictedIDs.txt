@@ -1,0 +1,9 @@
+Total amount of conflicted potion ids: 6
+IDs in conflict:
+
+25 is asked by: potion.Dplague (com.shinoow.abyssalcraft.common.potion.PotionDplague), Slowfall (net.aetherteam.aether.potions.AetherPotion)
+26 is asked by: potion.Antimatter (com.shinoow.abyssalcraft.common.potion.PotionAntimatter), High Steps (net.aetherteam.aether.potions.AetherPotion)
+60 is asked by: potion.infected.gas (stevekung.mods.moreplanets.planets.nibiru.potion.InfectedGasEffect), bl.elixir.sagittarius (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+61 is asked by: potion.chemical (stevekung.mods.moreplanets.planets.kapteynb.potion.ChemicalEffect), bl.elixir.spiderbreed (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+62 is asked by: potion.emp (stevekung.mods.moreplanets.planets.diona.potion.EMPEffect), bl.elixir.lightweight (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+63 is asked by: potion.icy_poison (stevekung.mods.moreplanets.planets.kapteynb.potion.IceCrystalEffect), bl.elixir.unclouded (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)

@@ -1,0 +1,1110 @@
+[08:31:37] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:31:37] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:31:37] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[08:31:37] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[08:31:37] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at M:\Twitch\Install\runtime\jre-x64
+[08:31:37] [main/INFO]: [AppEng] Core Init
+[08:31:37] [main/WARN]: The coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:31:37] [main/INFO]: Loading tweaker me.guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.0.1.jar
+[08:31:37] [main/WARN]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:31:38] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:31:38] [main/WARN]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:31:38] [main/INFO]: [micdoodle8.mods.miccore.DepLoader$DepLoadInst:<init>:333]: MicdoodleCore searching for dependencies in mods file: M:\Twitch\Instances\DimsGalore\mods
+[08:31:38] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:31:38] [main/ERROR]: Coremod DepLoader: Unable to class load the plugin xreliquary.common.asm.DepLoader
+java.lang.ClassNotFoundException: xreliquary.common.asm.DepLoader
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:117) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_51]
+	at java.lang.Class.forName(Class.java:348) ~[?:1.8.0_51]
+	at cpw.mods.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:460) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:389) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:221) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:90) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.setupClient(FMLLaunchHandler.java:67) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.relauncher.FMLLaunchHandler.configureForClientLaunch(FMLLaunchHandler.java:34) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at cpw.mods.fml.common.launcher.FMLTweaker.injectIntoClassLoader(FMLTweaker.java:126) [forge-1.7.10-10.13.4.1614-1.7.10.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[08:31:38] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:31:38] [main/INFO]: Loading tweak class name me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[08:31:38] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[08:31:38] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:31:38] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:31:38] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:39] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[08:31:39] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[08:31:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:39] [main/INFO]: Finished data injection.
+[08:31:39] [main/INFO]: Finished data injection.
+[08:31:39] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:40] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:40] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:40] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:102]: Successfully Registered Transformer
+[08:31:40] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
+[08:31:40] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
+[08:31:40] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:40] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:40] [main/INFO]: Calling tweak class me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[08:31:40] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[08:31:40] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:40] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:40] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:31:40] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[08:31:40] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[08:31:40] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[08:31:40] [main/INFO]: Patching Game Start...
+[08:31:41] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1992]: Galacticraft successfully injected bytecode into: ahb (1 / 1)
+[08:31:41] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printResultsAndReset:1908]: Potential problem: Galacticraft did not complete injection of bytecode into: sv (0 / 1)
+[08:31:41] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1992]: Galacticraft successfully injected bytecode into: sa (1 / 1)
+[08:31:41] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1992]: Galacticraft successfully injected bytecode into: bdi (1 / 1)
+[08:31:41] [main/INFO]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Transformed
+[08:31:41] [main/INFO]: func_146977_a_original(Lnet/minecraft/inventory/Slot;)V - New Method
+[08:31:41] [main/INFO]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Invoke Virtual
+[08:31:41] [main/INFO]: Setting user: Nerdance
+[08:31:42] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printResultsAndReset:1908]: Potential problem: Galacticraft did not complete injection of bytecode into: xk (0 / 1)
+[08:31:42] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1992]: Galacticraft successfully injected bytecode into: zc (1 / 1)
+[08:31:42] [main/INFO]: Transforming Class [net.minecraft.entity.projectile.EntityArrow], Method [func_70071_h_]
+[08:31:42] [main/INFO]: Transforming net.minecraft.entity.projectile.EntityArrow Finished.
+[08:31:42] [main/INFO]: ##################################################
+[08:31:42] [main/INFO]: Patching Potion
+[08:31:42] [main/INFO]: **************************************************
+[08:31:42] [main/INFO]: Patching <init>
+[08:31:42] [main/INFO]: Patching <init> completed
+[08:31:42] [main/INFO]: **************************************************
+[08:31:42] [main/INFO]: Patching Potion Completed
+[08:31:42] [main/INFO]: ##################################################
+[08:31:42] [main/INFO]: Transforming Class [net.minecraft.item.ItemStack], Method [func_77953_t]
+[08:31:42] [main/INFO]: Transforming net.minecraft.item.ItemStack Finished.
+[08:31:42] [main/INFO]: InvTweaks: net.minecraft.inventory.Container
+[08:31:42] [main/INFO]: InvTweaks: net.minecraft.inventory.ContainerFurnace
+[08:31:42] [main/INFO]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[08:31:42] [main/INFO]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[08:31:42] [main/INFO]: Patching Minecraft using Riven's "Half" Algorithm
+[08:31:43] [Client thread/INFO]: Patching Key Event...
+[08:31:43] [Client thread/INFO]: LWJGL Version: 2.9.1
+[08:31:43] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1992]: Galacticraft successfully injected bytecode into: net/minecraftforge/client/ForgeHooksClient (1 / 1)
+[08:31:44] [Client thread/INFO]: [cpw.mods.fml.client.SplashProgress:start:188]: ---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 2/2/20 8:31 AM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 277016024 bytes (264 MB) / 649068544 bytes (619 MB) up to 11453595648 bytes (10923 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx12288m -Xms256m -XX:PermSize=256m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 441.87' Renderer: 'GeForce GTX 1070/PCIe/SSE2'
+[08:31:44] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[08:31:44] [Client thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[08:31:44] [Client thread/INFO]: Replaced 183 ore recipies
+[08:31:44] [Client thread/INFO]: Completed early MinecraftForge initialization
+[08:31:44] [Client thread/INFO]: [zmaster587.advancedRocketry.asm.ModContainer:<init>:23]: ********* CoreDummyContainer. OK
+[08:31:44] [Client thread/INFO]: [AppEng] Core Init
+[08:31:44] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[08:31:44] [Client thread/INFO]: Searching M:\Twitch\Instances\DimsGalore\mods for mods
+[08:31:44] [Client thread/INFO]: Also searching M:\Twitch\Instances\DimsGalore\mods\1.7.10 for mods
+[08:31:52] [Client thread/INFO]: Mod AppleCore is missing the required element 'name'. Substituting AppleCore
+[08:31:52] [Client thread/WARN]: Mod Aroma1997CoreHelper is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.2.16
+[08:31:52] [Client thread/WARN]: Mod Aroma1997sDimension is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[08:31:53] [Client thread/WARN]: Mod cookingbook is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.140
+[08:31:53] [Client thread/WARN]: Mod excompressum is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0
+[08:31:54] [Client thread/WARN]: Mod oreexcavation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.134
+[08:31:55] [Client thread/INFO]: Forge Mod Loader has identified 69 mods to load
+[08:31:55] [Client thread/INFO]: Found mod(s) [libVulpes] containing declared API package cofh.api.energy (owned by CoFHAPI) without associated API reference
+[08:31:55] [Client thread/INFO]: Found mod(s) [exastris] containing declared API package cofh.api.energy (owned by CoFHAPI) without associated API reference
+[08:31:55] [Client thread/INFO]: [zmaster587.advancedRocketry.asm.ModContainer:registerBus:42]: ********* registerBus. OK
+[08:31:56] [Client thread/INFO]: FML has found a non-mod file CoFHLib-[1.7.10]1.2.1-185.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[08:31:56] [Client thread/INFO]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.3.138-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[08:31:56] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, AdvancedRocketryCore, appliedenergistics2-core, Aroma1997Core, CodeChickenCore, Micdoodlecore, NotEnoughItems, mod_ThreadedLighting, abyssalcraft, advancedRocketry, ae2stuff, aether, antiidconflict, AppleCore, appliedenergistics2, Aquaculture, Aroma1997CoreHelper, Aroma1997sDimension, Baubles, bdlib, Botania, controlling, cookingbook, endercore, exastris, exnihilo, excompressum, excore, extracells, ExtraPlanets, FlatBedrockx, GalacticraftMars, GalacticraftCore, GardenOfGlass, gilded-games-util, inventorytweaks, IronChest, journeymap, libVulpes, Mantle, MorePlanet, MouseTweaks, Mystcraft, NEIAddons, NEIAddons|Developer, NEIAddons|AppEng, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons|ExNihilo, neiintegration, oreexcavation, getalltheseeds, harvestcraft, xreliquary, libsandstone, simplyjetpacks, StorageDrawers, TConstruct, thebetweenlands, erebus, TwilightForest, UniDict, Waila, WailaHarvestability, wailaplugins, wawla] at CLIENT
+[08:31:56] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, AdvancedRocketryCore, appliedenergistics2-core, Aroma1997Core, CodeChickenCore, Micdoodlecore, NotEnoughItems, mod_ThreadedLighting, abyssalcraft, advancedRocketry, ae2stuff, aether, antiidconflict, AppleCore, appliedenergistics2, Aquaculture, Aroma1997CoreHelper, Aroma1997sDimension, Baubles, bdlib, Botania, controlling, cookingbook, endercore, exastris, exnihilo, excompressum, excore, extracells, ExtraPlanets, FlatBedrockx, GalacticraftMars, GalacticraftCore, GardenOfGlass, gilded-games-util, inventorytweaks, IronChest, journeymap, libVulpes, Mantle, MorePlanet, MouseTweaks, Mystcraft, NEIAddons, NEIAddons|Developer, NEIAddons|AppEng, NEIAddons|Botany, NEIAddons|Forestry, NEIAddons|CraftingTables, NEIAddons|ExNihilo, neiintegration, oreexcavation, getalltheseeds, harvestcraft, xreliquary, libsandstone, simplyjetpacks, StorageDrawers, TConstruct, thebetweenlands, erebus, TwilightForest, UniDict, Waila, WailaHarvestability, wailaplugins, wawla] at SERVER
+[08:31:57] [Client thread/INFO]: ##################################################
+[08:31:57] [Client thread/INFO]: Patching BiomeGenBase
+[08:31:57] [Client thread/INFO]: **************************************************
+[08:31:57] [Client thread/INFO]: Patching <init>
+[08:31:57] [Client thread/INFO]: Patching <init> completed
+[08:31:57] [Client thread/INFO]: **************************************************
+[08:31:57] [Client thread/INFO]: Patching BiomeGenBase Completed
+[08:31:57] [Client thread/INFO]: ##################################################
+[08:31:57] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1992]: Galacticraft successfully injected bytecode into: boh (1 / 1)
+[08:31:57] [Client thread/INFO]: Transforming Class [net.minecraft.world.WorldType], Method [func_76564_j]
+[08:31:57] [Client thread/INFO]: Transforming net.minecraft.world.WorldType Finished.
+[08:31:58] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1992]: Galacticraft successfully injected bytecode into: blt (5 / 5)
+[08:31:58] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1992]: Galacticraft successfully injected bytecode into: bje (2 / 2)
+[08:31:58] [Client thread/INFO]: Preparing to take over the world
+[08:32:00] [Client thread/INFO]: InvTweaks: net.minecraft.inventory.ContainerChest
+[08:32:00] [Client thread/INFO]: InvTweaks: net.minecraft.inventory.ContainerWorkbench
+[08:32:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:AbyssalCraft, FMLFileResourcePack:Advanced Rocketry, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:Aether II, FMLFileResourcePack:Anti Id Conflict, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Aquaculture, FMLFileResourcePack:Aroma1997Core|Helper, FMLFileResourcePack:Aroma1997's Dimensional World, FMLFileResourcePack:Baubles, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Botania, FMLFileResourcePack:Controlling, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ex Astris, FMLFileResourcePack:Ex Nihilo, FMLFileResourcePack:Ex Compressum, FMLFileResourcePack:EXCore, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:Extra Planets, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Galacticraft Planets, FMLFileResourcePack:Galacticraft Core, FMLFileResourcePack:Garden of Glass, FMLFileResourcePack:Gilded Games Utility, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:libVulpes, FMLFileResourcePack:Mantle, FMLFileResourcePack:More Planets, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:OreExcavation, FMLFileResourcePack:Pam's Get all the Seeds!, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Reliquary, FMLFileResourcePack:libsandstone, FMLFileResourcePack:Simply Jetpacks, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:The Betweenlands, FMLFileResourcePack:Erebus, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:UniDict, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:What Are We Looking At
+[08:32:01] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: DefaultEntityDimensions.cfg in M:\Twitch\Instances\DimsGalore\mods\TheErebus-0.4.7.jar
+[08:32:01] [Client thread/INFO]: Processing ObjectHolder annotations
+[08:32:01] [Client thread/INFO]: Found 341 ObjectHolder annotations
+[08:32:01] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[08:32:01] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[08:32:01] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[08:32:01] [Client thread/INFO]: Logger initialized.
+[08:32:01] [Client thread/INFO]: Finished Pre-initialization.
+[08:32:01] [Client thread/INFO]: Pre-initializing AbyssalCraft.
+[08:32:02] [Client thread/INFO]: Scanning biome IDs to see if the ones needed are available.
+[08:32:02] [Client thread/INFO]: None of the needed biome IDs are occupied!
+[08:32:02] [Client thread/INFO]: Starting the Integration Handler.
+[08:32:02] [Client thread/INFO]: Preliminary integration search complete: found 1 possible mod integration(s)!
+[08:32:03] [Client thread/INFO]: Pre Initialization ( started )
+[08:32:03] [Client thread/INFO]: func_145839_a(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[08:32:03] [Client thread/INFO]: func_145841_b(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[08:32:03] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1992]: Galacticraft successfully injected bytecode into: bkn (1 / 1)
+[08:32:03] [Client thread/INFO]: Removing Interface ic2.api.energy.tile.IEnergySink from appeng/tile/powersink/IC2 because IC2 integration is disabled.
+[08:32:03] [Client thread/INFO]: Updated appeng/tile/powersink/IC2
+[08:32:03] [Client thread/INFO]: Removing Interface Reika.RotaryCraft.API.Power.AdvancedShaftPowerReceiver from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[08:32:03] [Client thread/INFO]: Removing Interface Reika.RotaryCraft.API.Interfaces.Transducerable from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[08:32:03] [Client thread/INFO]: Removing Method Tick_RotaryCraft from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[08:32:03] [Client thread/INFO]: Updated appeng/tile/powersink/RotaryCraft
+[08:32:03] [Client thread/INFO]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/tile/powersink/RedstoneFlux because RF integration is enabled.
+[08:32:03] [Client thread/INFO]: Removing Interface mekanism.api.energy.IStrictEnergyAcceptor from appeng/tile/powersink/MekJoules because Mekanism integration is disabled.
+[08:32:03] [Client thread/INFO]: Updated appeng/tile/powersink/MekJoules
+[08:32:03] [Client thread/INFO]: Removing Interface powercrystals.minefactoryreloaded.api.rednet.connectivity.IRedNetConnection from appeng/block/networking/BlockCableBus because MFR integration is disabled.
+[08:32:03] [Client thread/INFO]: Removing Method getConnectionType from appeng/block/networking/BlockCableBus because MFR integration is disabled.
+[08:32:03] [Client thread/INFO]: Updated appeng/block/networking/BlockCableBus
+[08:32:03] [Client thread/INFO]: Removing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/quartz/ToolQuartzWrench because BC integration is disabled.
+[08:32:03] [Client thread/INFO]: Updated appeng/items/tools/quartz/ToolQuartzWrench
+[08:32:03] [Client thread/INFO]: Removing Interface ic2.api.item.ISpecialElectricItem from appeng/items/tools/powered/powersink/IC2 because IC2 integration is disabled.
+[08:32:03] [Client thread/INFO]: Removing Interface ic2.api.item.IElectricItemManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is disabled.
+[08:32:03] [Client thread/INFO]: Removing Method getManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is disabled.
+[08:32:03] [Client thread/INFO]: Updated appeng/items/tools/powered/powersink/IC2
+[08:32:03] [Client thread/INFO]: Allowing Interface cofh.api.energy.IEnergyContainerItem from appeng/items/tools/powered/powersink/RedstoneFlux because RFItem integration is enabled.
+[08:32:03] [Client thread/INFO]: Removing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/ToolNetworkTool because BC integration is disabled.
+[08:32:03] [Client thread/INFO]: Updated appeng/items/tools/ToolNetworkTool
+[08:32:03] [Client thread/INFO]: Removing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/misc/PartStorageBus because BC integration is disabled.
+[08:32:03] [Client thread/INFO]: Removing Method overridePipeConnection from appeng/parts/misc/PartStorageBus because BC integration is disabled.
+[08:32:03] [Client thread/INFO]: Updated appeng/parts/misc/PartStorageBus
+[08:32:04] [Client thread/INFO]: Removing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/p2p/PartP2PItems because BC integration is disabled.
+[08:32:04] [Client thread/INFO]: Removing Method overridePipeConnection from appeng/parts/p2p/PartP2PItems because BC integration is disabled.
+[08:32:04] [Client thread/INFO]: Updated appeng/parts/p2p/PartP2PItems
+[08:32:04] [Client thread/INFO]: Removing Interface ic2.api.energy.tile.IEnergySink from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is disabled.
+[08:32:04] [Client thread/INFO]: Removing Interface ic2.api.energy.tile.IEnergySource from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is disabled.
+[08:32:04] [Client thread/INFO]: Updated appeng/parts/p2p/PartP2PIC2Power
+[08:32:04] [Client thread/INFO]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/parts/p2p/PartP2PRFPower because RF integration is enabled.
+[08:32:04] [Client thread/INFO]: Starting AE2 VersionChecker
+[08:32:04] [Client thread/INFO]: Pre Initialization ( ended after 1346ms )
+[08:32:04] [Client thread/INFO]: bdlib 1.9.4.109 loaded
+[08:32:04] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: java.lang.IllegalArgumentException: Raw channel stable did not contain any of the pre-programmed types.
+[08:32:04] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at appeng.services.version.VersionParser.parseChannel(VersionParser.java:117)
+[08:32:04] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at appeng.services.version.VersionParser.parseVersion(VersionParser.java:72)
+[08:32:04] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at appeng.services.version.VersionParser.parse(VersionParser.java:34)
+[08:32:04] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at appeng.services.version.ModVersionFetcher.get(ModVersionFetcher.java:34)
+[08:32:04] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at appeng.services.VersionChecker.processInterval(VersionChecker.java:106)
+[08:32:04] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at appeng.services.VersionChecker.run(VersionChecker.java:86)
+[08:32:04] [AE2 VersionChecker/INFO]: [java.lang.Throwable$WrappedPrintStream:println:748]: 	at java.lang.Thread.run(Thread.java:745)
+[08:32:04] [Client thread/INFO]: Initialized network channel 'bdew.multiblock' for mod 'bdlib'
+[08:32:04] [Client thread/INFO]: Loading internal config files for mod AE2 Stuff
+[08:32:04] [Client thread/INFO]: Loading config: jar:file:/M:/Twitch/Instances/DimsGalore/mods/ae2stuff-0.5.0.56-mc1.7.10.jar!/assets/ae2stuff/config/tuning.cfg
+[08:32:04] [Client thread/INFO]: Loading config: jar:file:/M:/Twitch/Instances/DimsGalore/mods/ae2stuff-0.5.0.56-mc1.7.10.jar!/assets/ae2stuff/config/recipes.cfg
+[08:32:05] [Client thread/INFO]: Loading user config files for mod AE2 Stuff
+[08:32:05] [Client thread/INFO]: Config loading for mod AE2 Stuff finished
+[08:32:05] [Client thread/INFO]: Loaded creative tabs for ae2stuff
+[08:32:05] [Client thread/INFO]: Helping Aroma1997Core
+[08:32:06] [Client thread/INFO]: [Botania] Registered 1217 recipes.
+[08:32:07] [Client thread/INFO]: Attempting to initialize texture error message interceptor.
+[08:32:07] [Client thread/INFO]: Mantle (1.7.10-0.3.2.jenkins191) -- Preparing for launch.
+[08:32:07] [Client thread/INFO]: Entering preinitialization phase.
+[08:32:07] [Client thread/INFO]: Loading configuration from disk.
+[08:32:07] [Client thread/INFO]: Configuration load completed.
+[08:32:07] [Client thread/INFO]: Skipping Pulse Tinkers Thaumcraft Compatibility; missing dependency: Thaumcraft
+[08:32:07] [Client thread/INFO]: Skipping Pulse Tinkers BuildCraft Compatibility; missing dependency: BuildCraft|Transport
+[08:32:07] [Client thread/INFO]: Skipping Pulse Tinkers IC2 Compatibility; missing dependency: IC2
+[08:32:07] [Client thread/INFO]: Skipping Pulse Tinkers MFR Compatibility; missing dependency: MineFactoryReloaded
+[08:32:07] [Client thread/INFO]: Skipping Pulse Tinkers TE4 Compatibility; missing dependency: ThermalExpansion
+[08:32:07] [Client thread/INFO]: Skipping Pulse Tinkers Thermal Foundation Compatibility; missing dependency: ThermalFoundation
+[08:32:07] [Client thread/INFO]: Skipping Pulse Tinkers FMP Compatibility; missing dependency: ForgeMultipart
+[08:32:07] [Client thread/INFO]: Skipping Pulse Tinkers' Underground Biomes Compatiblity; missing dependency: UndergroundBiomes
+[08:32:07] [Client thread/INFO]: Skipping Pulse Tinkers RF-Tools Compatibility; missing dependency: rftools
+[08:32:07] [Client thread/INFO]: Gear module active. Adding gear cast.
+[08:32:10] [Client thread/INFO]: InvTweaks: invtweaks.InvTweaksObfuscation
+[08:32:11] [Client thread/INFO]: Version check success: appliedenergistics2 required / rv2-stable-10 detected
+[08:32:11] [Client thread/INFO]: Required mod Botany is not installed, dependent features will be unavailable
+[08:32:11] [Client thread/ERROR]: Requirements unmet, Botany Addon not loading
+[08:32:11] [Client thread/INFO]: Required mod Forestry is not installed, dependent features will be unavailable
+[08:32:11] [Client thread/ERROR]: Requirements unmet, Forestry Addon not loading
+[08:32:11] [Client thread/INFO]: Version check success: exnihilo required / 1.38-53 detected
+[08:32:11] [Client thread/INFO]: Version check success: Waila required / 1.5.10 detected
+[08:32:11] [Client thread/INFO]: Starting NEI Integration
+[08:32:11] [Client thread/INFO]: Loading configuration files
+[08:32:13] [Client thread/INFO]: Starting Simply Jetpacks
+[08:32:13] [Client thread/INFO]: Successfully found CoFHLib
+[08:32:13] [Client thread/INFO]: Loading configuration files
+[08:32:13] [Client thread/INFO]: Registering items
+[08:32:15] [Client thread/INFO]: Beginning plugin registration: 14 candidates found.
+[08:32:15] [Client thread/INFO]: Skipping over plugin MFR as its dependencies [MineFactoryReloaded] were not found.
+[08:32:15] [Client thread/INFO]: Skipping over plugin magicalcrops as its dependencies [magicalcrops] were not found.
+[08:32:15] [Client thread/INFO]: Skipping over plugin Railcraft as its dependencies [Railcraft] were not found.
+[08:32:15] [Client thread/INFO]: Skipping over plugin ResourcefulCrops as its dependencies [ResourcefulCrops] were not found.
+[08:32:15] [Client thread/INFO]: Skipping over plugin Mekanism as its dependencies [Mekanism] were not found.
+[08:32:15] [Client thread/INFO]: Attempting to create plugin DSU.
+[08:32:15] [Client thread/INFO]: Successfully created plugin DSU.
+[08:32:15] [Client thread/INFO]: Attempting to create plugin Pam's Fruit.
+[08:32:15] [Client thread/INFO]: Successfully created plugin Pam's Fruit.
+[08:32:15] [Client thread/INFO]: Skipping over plugin ExtraUtilities as its dependencies [ExtraUtilities] were not found.
+[08:32:15] [Client thread/INFO]: Skipping over plugin TE Augments as its dependencies [ThermalExpansion] were not found.
+[08:32:15] [Client thread/INFO]: Skipping over plugin RedLogic as its dependencies [RedLogic] were not found.
+[08:32:15] [Client thread/INFO]: Skipping over plugin Steamcraft as its dependencies [Steamcraft] were not found.
+[08:32:15] [Client thread/INFO]: Attempting to create plugin IFluidHandler.
+[08:32:15] [Client thread/INFO]: Successfully created plugin IFluidHandler.
+[08:32:15] [Client thread/INFO]: Skipping over plugin Forestry as its dependencies [Forestry] were not found.
+[08:32:15] [Client thread/INFO]: Skipping over plugin Blood Magic as its dependencies [AWWayofTime] were not found.
+[08:32:15] [Client thread/INFO]: Sorting plugins. Before: [DSU, Pam's Fruit, IFluidHandler]
+[08:32:15] [Client thread/INFO]: Sorting plugins. After:  [DSU, Pam's Fruit, IFluidHandler]
+[08:32:15] [Client thread/INFO]: Successfully loaded plugin DSU.
+[08:32:15] [Client thread/INFO]: Successfully loaded plugin Pam's Fruit.
+[08:32:15] [Client thread/INFO]: Successfully loaded plugin IFluidHandler.
+[08:32:15] [Client thread/INFO]: Completed plugin registration. 3 plugins registered.
+[08:32:15] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1992]: Galacticraft successfully injected bytecode into: bjb (2 / 2)
+[08:32:15] [Client thread/INFO]: Applying holder lookups
+[08:32:15] [Client thread/INFO]: Holder lookups applied
+[08:32:15] [Client thread/INFO]: Injecting itemstacks
+[08:32:15] [Client thread/INFO]: Itemstack injection complete
+[08:32:16] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:32:16] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[08:32:16] [Thread-10/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[08:32:16] [Thread-10/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[08:32:16] [Thread-10/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[08:32:16] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1992]: Galacticraft successfully injected bytecode into: bly (1 / 1)
+[08:32:16] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:32:16] [Sound Library Loader/INFO]: Sound engine started
+[08:32:16] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[08:32:16] [Client thread/INFO]: Removed 0 missing texture stacktraces. Tada!
+[08:32:16] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[08:32:16] [Client thread/INFO]: Removed 0 missing texture stacktraces. Tada!
+[08:32:16] [Client thread/INFO]: Finished Initialization.
+[08:32:16] [Client thread/ERROR]: Unable to do mod description scrolling due to lack of stencil buffer
+[08:32:16] [Client thread/ERROR]: Unable to do mod description scrolling due to lack of stencil buffer
+[08:32:16] [Client thread/INFO]: InvTweaks: net.minecraft.inventory.ContainerEnchantment
+[08:32:16] [Client thread/INFO]: Initializing AbyssalCraft.
+[08:32:17] [Client thread/INFO]: Not Enough Items is present, initializing informative stuff.
+[08:32:17] [Client thread/INFO]: Inventory Tweaks is present, initializing sorting stuff.
+[08:32:17] [Client thread/INFO]: Mod integrations found: [Not Enough Items, Inventory Tweaks]
+[08:32:17] [CodeChicken Update Checker/ERROR]: Failed to check update for CodeChickenCore returned: <html>
+[08:32:17] [Client thread/WARN]: Error blackListing biome id "127", a biome with that ID does not exist!
+[08:32:17] [Client thread/INFO]: Initialization ( started )
+[08:32:17] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.IronNugget:0
+[08:32:17] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.GoldDust:0
+[08:32:17] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.IronDust:0
+[08:32:17] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.Silicon:0
+[08:32:17] [Client thread/WARN]: Unable to register a recipe:Unable to find item: appliedenergistics2:ItemMaterial.Silicon:0
+[08:32:17] [Client thread/INFO]: Recipes Loading: Pulverizer: 9 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: OreRegistration: 14 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: Shaped: 203 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: HCCrusher: 9 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: Press: 3 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: MekEnrichment: 2 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: Smelt: 2 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: Crusher: 9 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: Shapeless: 55 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: MekCrusher: 3 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: Grind: 4 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: Inscribe: 8 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: GrindFZ: 7 loaded.
+[08:32:17] [Client thread/INFO]: Recipes Loading: Macerator: 8 loaded.
+[08:32:17] [Client thread/INFO]: Initialization ( ended after 212ms )
+[08:32:17] [Client thread/INFO]: Initialized network channel 'bdew.ae2stuff' for mod 'ae2stuff'
+[08:32:18] [Client thread/INFO]: InvTweaks: net.minecraft.inventory.ContainerPlayer
+[08:32:18] [Client thread/INFO]: Loaded.
+[08:32:18] [Client thread/INFO]: InvTweaks: net.minecraft.client.gui.GuiTextField
+[08:32:18] [Client thread/INFO]: InvTweaks: successfully transformed setFocused/func_146195_b
+[08:32:18] [Client thread/INFO]: [Handlers] Registering handler EnchantTooltipHandler to busses: [FORGE, FML]
+[08:32:18] [Client thread/INFO]: Transforming Class [cpw.mods.fml.client.GuiScrollingList], Method [drawScreen]
+[08:32:18] [Client thread/INFO]: Transforming cpw.mods.fml.client.GuiScrollingList Finished.
+[08:32:18] [Client thread/INFO]: Transforming Class [cpw.mods.fml.client.GuiSlotModList], Method [drawBackground]
+[08:32:18] [Client thread/INFO]: Transforming cpw.mods.fml.client.GuiSlotModList Finished.
+[08:32:18] [Client thread/INFO]: [Handlers] Registering handler EventHandlerGui to busses: [FORGE, FML]
+[08:32:18] [Client thread/INFO]: [Handlers] Registering handler XPBoostHandler to busses: [FORGE, FML]
+[08:32:18] [Client thread/INFO]: [Handlers] Registering handler OreDictTooltipHandler to busses: [FORGE, FML]
+[08:32:18] [Client thread/INFO]: [Handlers] Registering handler Scheduler to busses: [FORGE, FML]
+[08:32:18] [Client thread/INFO]: [Handlers] Registering handler RightClickCropHandler to busses: [FORGE, FML]
+[08:32:18] [Client thread/INFO]: [Handlers] Registering handler ClientHandler to busses: [FORGE, FML]
+[08:32:18] [Client thread/INFO]: [Handlers] Registering handler FireworkHandler to busses: [FORGE, FML]
+[08:32:18] [Client thread/INFO]: [Handlers] Registering handler SpecialTooltipHandler to busses: [FORGE, FML]
+[08:32:18] [Client thread/INFO]: [Handlers] Registering handler AutoSmeltHandler to busses: [FORGE, FML]
+[08:32:18] [Client thread/INFO]: Sending dummy event to all mods
+[08:32:18] [Client thread/INFO]: Reloading ingame configs for modid: endercore
+[08:32:18] [Client thread/INFO]: Reloading ingame configs for modid: wailaplugins
+[08:32:18] [Client thread/INFO]: Entering initialization phase.
+[08:32:18] [Client thread/INFO]: Transforming Class [net.minecraft.enchantment.EnchantmentHelper], Method [func_77513_b]
+[08:32:18] [Client thread/INFO]: Transforming net.minecraft.enchantment.EnchantmentHelper Finished.
+[08:32:18] [Client thread/INFO]: Waila detected. Registering TConstruct tank blocks with Waila registry.
+[08:32:18] [Client thread/INFO]: AE2 detected. Registering for Spatial IO.
+[08:32:18] [Client thread/INFO]: Mystcraft detected. Blacklisting Mystcraft fluid symbols.
+[08:32:18] [Client thread/INFO]: Recipes Loading: Shapeless: 45 loaded.
+[08:32:18] [Client thread/INFO]: Recipes Loading: Shaped: 54 loaded.
+[08:32:19] [Client thread/INFO]: InvTweaks: Configuration loaded.
+[08:32:19] [Client thread/INFO]: Mod initialized
+[08:32:19] [Client thread/INFO]: JourneyMap log initialized.
+[08:32:19] [Client thread/INFO]: initialize ENTER
+[08:32:19] [Client thread/INFO]: Loaded CoreProperties from M:\Twitch\Instances\DimsGalore\journeymap\config\5.1\journeymap.core.config
+[08:32:19] [Client thread/INFO]: Loaded FullMapProperties from M:\Twitch\Instances\DimsGalore\journeymap\config\5.1\journeymap.fullmap.config
+[08:32:19] [Client thread/INFO]: Loaded MiniMapProperties from M:\Twitch\Instances\DimsGalore\journeymap\config\5.1\journeymap.minimap.config
+[08:32:19] [Client thread/INFO]: Loaded MiniMapProperties2 from M:\Twitch\Instances\DimsGalore\journeymap\config\5.1\journeymap.minimap2.config
+[08:32:19] [Client thread/INFO]: Loaded WebMapProperties from M:\Twitch\Instances\DimsGalore\journeymap\config\5.1\journeymap.webmap.config
+[08:32:19] [Client thread/INFO]: Loaded WaypointProperties from M:\Twitch\Instances\DimsGalore\journeymap\config\5.1\journeymap.waypoint.config
+[08:32:19] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
+[08:32:19] [Client thread/INFO]: Register packet
+[08:32:20] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] A call to initialise, entry point: FORGE.
+[08:32:20] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Obfuscation check, please ignore the following errors (if they come up).
+[08:32:20] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Could not retrieve field "mcProfiler" from class "net.minecraft.client.Minecraft"
+[08:32:20] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Obfuscation check completed.
+[08:32:20] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Minecraft Forge is installed.
+[08:32:20] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] LiteLoader is not installed.
+[08:32:20] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Using Forge for the mod operation.
+[08:32:20] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Successfully reflected CodeChickenCore!
+[08:32:20] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Successfully reflected NEI!
+[08:32:20] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Mouse Tweaks has been initialised.
+[08:32:20] [Client thread/INFO]: Adding Entity Renderers
+[08:32:20] [Client thread/INFO]: Loading NEI Addons
+[08:32:20] [Client thread/INFO]: Developer Tools Addon disabled - skipping
+[08:32:20] [Client thread/INFO]: Loading Applied Energistics 2 Addon...
+[08:32:20] [Client thread/INFO]: Applied Energistics 2 Addon successfully loadded
+[08:32:20] [Client thread/INFO]: Loading Crafting Tables Addon...
+[08:32:20] [Client thread/INFO]: Required mod EE3 is not installed, dependent features will be unavailable
+[08:32:20] [Client thread/INFO]: Not registering EE3 Minium Stone
+[08:32:20] [Client thread/INFO]: Required mod BuildCraft|Factory is not installed, dependent features will be unavailable
+[08:32:20] [Client thread/INFO]: Not registering BC Autorcrafting Table
+[08:32:20] [Client thread/INFO]: Required mod powersuitaddons is not installed, dependent features will be unavailable
+[08:32:20] [Client thread/INFO]: Not registering MPSA In-Place Assembler
+[08:32:20] [Client thread/INFO]: Required mod ProjectE is not installed, dependent features will be unavailable
+[08:32:20] [Client thread/INFO]: Not registering ProjectE Philosopher Stone
+[08:32:20] [Client thread/INFO]: Required mod BiblioCraft is not installed, dependent features will be unavailable
+[08:32:20] [Client thread/INFO]: Not registering BiblioCraft Fancy Workbench
+[08:32:20] [Client thread/INFO]: Required mod RIO is not installed, dependent features will be unavailable
+[08:32:20] [Client thread/INFO]: Not registering RemoteIO Intelligent Workbench
+[08:32:20] [Client thread/INFO]: Required mod Railcraft is not installed, dependent features will be unavailable
+[08:32:20] [Client thread/INFO]: Not registering Railcraft Work Cart
+[08:32:20] [Client thread/INFO]: Loading Ex Nihilo Addon...
+[08:32:20] [Client thread/INFO]: Ex Nihilo Addon successfully loadded
+[08:32:20] [Client thread/INFO]: Registering handlers
+[08:32:20] [Client thread/INFO]: Registering network messages
+[08:32:20] [Client thread/INFO]: Registering recipes
+[08:32:20] [Client thread/INFO]: Doing intermod communication
+[08:32:22] [Client thread/INFO]: Bad Class Registered: tconstruct.smeltery.logic.AdaptiveSmelteryLogic by TConstruct
+[08:32:22] [Client thread/INFO]: Bad Class Registered: tconstruct.smeltery.logic.AqueductLogic by TConstruct
+[08:32:22] [Client thread/INFO]: Bad Class Registered: tconstruct.smeltery.logic.TankAirLogic by TConstruct
+[08:32:22] [Client thread/INFO]: Bad Class Registered: tconstruct.smeltery.logic.TowerFurnaceLogic by TConstruct
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ appliedenergistics2 ] for method appeng.integration.modules.Waila.register
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ ae2stuff ] for method net.bdew.ae2stuff.waila.WailaHandler.loadCallback
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ exnihilo ] for method exnihilo.compatibility.Waila.callbackRegister
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ TConstruct ] for method tconstruct.plugins.waila.WailaRegistrar.wailaCallback
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ exastris ] for method ExAstris.Bridge.Waila.callbackRegister
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ excompressum ] for method net.blay09.mods.excompressum.compat.waila.WailaProvider.register
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ extracells ] for method extracells.integration.waila.Waila.register
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ NEIAddons ] for method net.bdew.neiaddons.exnihilo.WailaHandler.loadCallback
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ StorageDrawers ] for method com.jaquadro.minecraft.storagedrawers.integration.Waila.registerProvider
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ WailaHarvestability ] for method squeek.wailaharvestability.WailaHandler.callbackRegister
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ wawla ] for method net.darkhax.wawla.addons.vanillamc.AddonVanillaEntities.registerAddon
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ wawla ] for method net.darkhax.wawla.addons.vanillamc.AddonVanillaTiles.registerAddon
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ wawla ] for method net.darkhax.wawla.addons.generic.AddonGenericEntities.registerAddon
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ wawla ] for method net.darkhax.wawla.addons.generic.AddonGenericTiles.registerAddon
+[08:32:22] [Client thread/INFO]: Receiving registration request from [ wawla ] for method net.darkhax.wawla.addons.tinkersconstruct.AddonTinkersTiles.registerAddon
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid gold.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid steel.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid emerald.liquid
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid ardite.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid cobalt.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid pigiron.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid bronze.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid alumite.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid aluminumbrass.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid manyullyn.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid ender
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid silver.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid invar.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid electrum.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid platinum.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid signalum.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid lumium.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid mithril.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Receiving fluid symbol blacklist request from [TConstruct] for fluid enderium.molten
+[08:32:22] [Client thread/INFO]: Fluid blacklist request successful.
+[08:32:22] [Client thread/INFO]: Injecting itemstacks
+[08:32:22] [Client thread/INFO]: Itemstack injection complete
+[08:32:22] [Client thread/INFO]: Finished Post-Initialization.
+[08:32:22] [Client thread/INFO]: Post-initializing AbyssalCraft
+[08:32:22] [Client thread/INFO]: Checking so that no other mod has overridden a used biome ID.
+[08:32:22] [Client thread/INFO]: None of the biome IDs has been overridden.
+[08:32:22] [Client thread/INFO]: AbyssalCraft loaded.
+[08:32:22] [Client thread/INFO]: Start registering sealable blocks
+[08:32:22] [Client thread/INFO]: End registering sealable blocks
+[08:32:22] [Client thread/INFO]: Start registering torch blocks
+[08:32:22] [Client thread/INFO]: End registering torch blocks
+[08:32:22] [Client thread/INFO]: Start registering Harvestable Gasses
+[08:32:22] [Client thread/INFO]: End registering Harvestable Gasses
+[08:32:22] [Client thread/INFO]: Start registering entity atmosphere bypass
+[08:32:22] [Client thread/INFO]: End registering entity atmosphere bypass
+[08:32:22] [Client thread/INFO]: Post Initialization ( started )
+[08:32:22] [Client thread/INFO]: Layer: appeng/parts/layers/LayerISidedInventory_TileCableBus loaded successfully - 5294 bytes
+[08:32:22] [Client thread/INFO]: Layer: appeng/parts/layers/LayerIFluidHandler_TileCableBus loaded successfully - 2442 bytes
+[08:32:22] [Client thread/INFO]: Layer: appeng/parts/layers/LayerITileStorageMonitorable_TileCableBus loaded successfully - 1070 bytes
+[08:32:22] [Client thread/INFO]: Layer: appeng/parts/layers/LayerIEnergyHandler_TileCableBus loaded successfully - 1811 bytes
+[08:32:22] [Client thread/INFO]: Layer: appeng/parts/layers/LayerISidedInventory_TileCableBusTESR loaded successfully - 5306 bytes
+[08:32:22] [Client thread/INFO]: Layer: appeng/parts/layers/LayerIFluidHandler_TileCableBusTESR loaded successfully - 2454 bytes
+[08:32:22] [Client thread/INFO]: Layer: appeng/parts/layers/LayerITileStorageMonitorable_TileCableBusTESR loaded successfully - 1082 bytes
+[08:32:22] [Client thread/INFO]: Layer: appeng/parts/layers/LayerIEnergyHandler_TileCableBusTESR loaded successfully - 1823 bytes
+[08:32:22] [Client thread/INFO]: Industrial Craft 2 - Integration Disabled
+[08:32:22] [Client thread/INFO]: Rotary Craft - Integration Disabled
+[08:32:22] [Client thread/INFO]: Railcraft - Integration Disabled
+[08:32:22] [Client thread/INFO]: BuildCraft - Integration Disabled
+[08:32:22] [Client thread/INFO]: RedstoneFlux Power - Tiles - Integration Enable
+[08:32:22] [Client thread/INFO]: RedstoneFlux Power - Items - Integration Enable
+[08:32:22] [Client thread/INFO]: Mine Factory Reloaded - Integration Disabled
+[08:32:22] [Client thread/INFO]: Deep Storage Unit - Integration Enable
+[08:32:22] [Client thread/INFO]: Factorization - Integration Disabled
+[08:32:22] [Client thread/INFO]: Forge MultiPart - Integration Disabled
+[08:32:22] [Client thread/INFO]: Rotatable Blocks - Integration Disabled
+[08:32:22] [Client thread/INFO]: Colored Lights Core - Integration Disabled
+[08:32:22] [Client thread/INFO]: Waila - Integration Enable
+[08:32:22] [Client thread/INFO]: Inventory Tweaks - Integration Enable
+[08:32:22] [Client thread/INFO]: Not Enough Items - Integration Enable
+[08:32:22] [Client thread/INFO]: Craft Guide - Integration Disabled
+[08:32:22] [Client thread/INFO]: Mekanism - Integration Disabled
+[08:32:22] [Client thread/INFO]: ImmibisMicroblocks - Integration Disabled
+[08:32:22] [Client thread/INFO]: BetterStorage - Integration Disabled
+[08:32:22] [Client thread/INFO]: Post Initialization ( ended after 243ms )
+[08:32:22] [Client thread/INFO]: [code.elix_x.coremods.antiidconflict.managers.BiomesManager:updateBiomesFolder:78]: Found tottally 105 free biome ids
+[08:32:22] [Client thread/INFO]: [code.elix_x.coremods.antiidconflict.managers.BiomesManager:updateBiomesFolder:88]: Found tottally 151 occupied biome ids
+[08:32:22] [Client thread/INFO]: [code.elix_x.coremods.antiidconflict.managers.BiomesManager:updateBiomesFolder:101]: Found tottally 5 conflicted biome ids
+[08:32:22] [Client thread/INFO]: [Botania] The Lexica Botania has 26814 words.
+[08:32:23] [Client thread/INFO]: +++ - Found AE2!
+[08:32:23] [Client thread/INFO]: Certus Quartz was successfully integrated
+[08:32:23] [Client thread/INFO]: Skystone was successfully integrated
+[08:32:23] [Client thread/INFO]: --- AE2 Integration Complete!
+[08:32:23] [Client thread/INFO]: +++ - Found Tinkers Construct!
+[08:32:23] [Client thread/INFO]: --- Tinkers Construct Integration Complete!
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering minecraft:iron_ore:0
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering TConstruct:GravelOre:0
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering abyssalcraft:abyiroore:0
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering GalacticraftMars:tile.asteroidsBlock:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering GalacticraftMars:tile.mars:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.mercury:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.venus:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.ceres:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.jupiter:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.saturn:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.neptune:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.pluto:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.eris:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.callisto:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.deimos:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.europa:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.ganymede:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.io:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.phobos:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.rhea:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.titan:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.triton:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:oberon:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:iapetus:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:titania:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.kepler22b:2
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:polongnius_block:6
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:fronos_block:2
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:mercury_block:7
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:venus_block:9
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:pluto_block:6
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:phobos_block:6
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:deimos_block:6
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:dark_asteroid_block:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering erebus:oreIron:0
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering minecraft:gold_ore:0
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering TConstruct:GravelOre:1
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering abyssalcraft:abygolore:0
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:fronos_block1:0
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:venus_block:10
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering erebus:oreGold:0
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering TConstruct:SearedBrick:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering TConstruct:GravelOre:2
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering abyssalcraft:abycopore:0
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering libVulpes:libVulpesore0:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering GalacticraftCore:tile.gcBlockCore:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering GalacticraftCore:tile.moonBlock:0
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering GalacticraftMars:tile.mars:0
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.mercury:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.venus:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.ceres:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.jupiter:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.saturn:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.neptune:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.pluto:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.eris:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.callisto:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.deimos:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.europa:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.ganymede:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.io:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.phobos:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.rhea:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.titan:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.triton:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:oberon:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:iapetus:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:titania:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.kepler22b:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:diona_block:7
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:polongnius_block:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:koentus_block:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:fronos_block:6
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:kapteyn-b_block:8
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:mercury_block:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:venus_block:7
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:phobos_block:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:deimos_block:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering TConstruct:SearedBrick:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering TConstruct:GravelOre:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering abyssalcraft:abytinore:0
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering libVulpes:libVulpesore0:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering GalacticraftCore:tile.gcBlockCore:6
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering GalacticraftCore:tile.moonBlock:1
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering GalacticraftMars:tile.mars:1
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.mercury:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.venus:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.ceres:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.jupiter:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.saturn:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.neptune:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.pluto:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.eris:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.callisto:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.deimos:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.europa:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.ganymede:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.io:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.phobos:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.rhea:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.titan:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.triton:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:oberon:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:iapetus:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:titania:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.kepler22b:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:diona_block:6
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:polongnius_block:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:koentus_block:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:fronos_block:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:kapteyn-b_block:7
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:mercury_block:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:venus_block:6
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:phobos_block:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:deimos_block:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.deimos:6
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.phobos:6
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:venus_block:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.jupiter:7
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering ExtraPlanets:tile.kepler22b:13
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering TConstruct:SearedBrick:5
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering TConstruct:GravelOre:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering libVulpes:libVulpesore0:9
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering GalacticraftCore:tile.gcBlockCore:7
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering GalacticraftMars:tile.asteroidsBlock:3
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:diona_block:9
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:fronos_block:4
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:mercury_block:6
+[08:32:23] [Client thread/INFO]: [exnihilo.compatibility.OreList:processOreDict:60]: Registering MorePlanet:dark_asteroid_block:3
+[08:32:23] [Client thread/INFO]: Entering postinitialization phase.
+[08:32:23] [Client thread/INFO]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+[08:32:23] [Client thread/INFO]: [mcp.mobius.waila.gui.truetyper.TrueTypeFont:<init>:98]: TrueTypeFont loaded: java.awt.Font[family=Minecraftia,name=Minecraftia Regular,style=plain,size=14] - AntiAlias = true
+[08:32:23] [Client thread/INFO]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+[08:32:23] [Client thread/INFO]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+[08:32:23] [Client thread/INFO]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+[08:32:23] [Client thread/INFO]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+[08:32:23] [Client thread/INFO]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+[08:32:23] [Client thread/WARN]: Could not find itemResourcefrom thaumcraft.common.config.ConfigItems
+[08:32:23] [Client thread/WARN]: Thaumcraft not detected.
+[08:32:23] [Client thread/INFO]: +++ - Found TConstruct!
+[08:32:23] [Client thread/INFO]: +++ - Found Botania!
+[08:32:23] [Client thread/ERROR]: Skipping smashable ExtraUtilities:cobblestone_compressed:0=9:minecraft:gravel:0:1:0 because the source block was not found
+[08:32:23] [Client thread/ERROR]: Skipping smashable ExtraUtilities:cobblestone_compressed:12=9:minecraft:sand:0:1:0 because the source block was not found
+[08:32:23] [Client thread/ERROR]: Skipping smashable ExtraUtilities:cobblestone_compressed:14=9:exnihilo:dust:0:1:0 because the source block was not found
+[08:32:23] [Client thread/ERROR]: Skipping heavy siftable mapping ExtraUtilities:cobblestone_compressed:8=minecraft:dirt:0:1:6 because the source block was not found
+[08:32:23] [Client thread/ERROR]: Skipping heavy siftable mapping ExtraUtilities:cobblestone_compressed:12=minecraft:gravel:0:1:6 because the source block was not found
+[08:32:23] [Client thread/ERROR]: Skipping heavy siftable mapping ExtraUtilities:cobblestone_compressed:14=minecraft:sand:0:1:6 because the source block was not found
+[08:32:23] [Client thread/ERROR]: Skipping heavy siftable mapping minecraft:netherrack:0:1:6 due to not being registered in Ex Nihilo
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [Client thread/ERROR]: Skipping wooden meltable ore:listAllfruit=50:water:minecraft:leaves:0 because the source block is not a block
+[08:32:23] [CodeChicken Update Checker/ERROR]: Failed to check update for NotEnoughItems returned: <html>
+[08:32:23] [Client thread/INFO]: While registering space station recipe, found 1 type(s) of waferAdvanced
+[08:32:23] [Client thread/INFO]: While registering space station recipe, found 5 type(s) of ingotTin
+[08:32:23] [Client thread/INFO]: Successfully added space torches as heat sources for Ex Nihilo crucibles etc
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 1 type(s) of waferAdvanced
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 5 type(s) of ingotTin
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 1 type(s) of waferAdvanced
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 5 type(s) of ingotTin
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 1 type(s) of waferAdvanced
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 5 type(s) of ingotTin
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 1 type(s) of waferAdvanced
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 5 type(s) of ingotTin
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 5 type(s) of ingotTin
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 1 type(s) of waferAdvanced
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 5 type(s) of ingotTin
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 5 type(s) of ingotTin
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 5 type(s) of ingotTin
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 1 type(s) of waferAdvanced
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 5 type(s) of ingotTin
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 1 type(s) of waferAdvanced
+[08:32:24] [Client thread/INFO]: While registering space station recipe, found 5 type(s) of ingotTin
+[08:32:24] [Client thread/INFO]: postInitialize ENTER
+[08:32:24] [Client thread/INFO]: Registered channel: world_info
+[08:32:24] [Client thread/INFO]: Initializing icon sets...
+[08:32:24] [Client thread/INFO]: postInitialize EXIT, elapsed§8 count §r1§8 avg §r460.92§8ms§r
+[08:32:25] [JM-VersionCheck-1/ERROR]: Could not check version URL
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
+	at com.google.gson.JsonParser.parse(JsonParser.java:65) ~[JsonParser.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:45) ~[JsonParser.class:?]
+	at journeymap.common.version.VersionCheck$1.run(VersionCheck.java:137) [VersionCheck$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_51]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1505) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1386) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:531) ~[JsonReader.class:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:414) ~[JsonReader.class:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:60) ~[JsonParser.class:?]
+	... 7 more
+[08:32:25] [Client thread/INFO]: While registering space station recipe, found 1 type(s) of waferAdvanced
+[08:32:25] [Client thread/INFO]: While registering space station recipe, found 1 type(s) of ingotIron
+[08:32:25] [Client thread/INFO]: While registering space station recipe, found 5 type(s) of ingotTin
+[08:32:25] [Client thread/INFO]: While registering space station recipe, found 1 type(s) of ingotDesh
+[08:32:25] [Client thread/WARN]: Biome (id 160) is in list as element 161.
+[08:32:25] [Client thread/INFO]: Loaded successfully!
+[08:32:25] [Client thread/INFO]: Hey NEI! I got a plugin for you! (hopefully in the near future).
+[08:32:25] [Client thread/INFO]: Crafting Integration: Why so many recipes? I had to deal with a lot of recipes.
+[08:32:25] [Client thread/INFO]: Chest Integration: Now you can find things that aren't so useless in chests.
+[08:32:25] [Client thread/INFO]: Furnace Integration: Some things that you smelted appear to be different now.
+[08:32:25] [Client thread/INFO]: AbyssalCraft Integration: TransMules Fixes!
+[08:32:25] [Client thread/INFO]: Applied Energistics 2 Integration: The world of energistics has never been so powerful.
+[08:32:25] [Client thread/INFO]: All 5 Integrations took 27ms to finish. at load stage POST_INIT
+[08:32:25] [Client thread/INFO]:   Unknown recipe class! aroma1997.world.CraftingBook Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[08:32:25] [Client thread/INFO]:   Unknown recipe class! extracells.util.recipe.RecipeUniversalTerminal$ Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[08:32:25] [Client thread/WARN]: [BC] Class not found. java.lang.ClassNotFoundException: buildcraft.factory.TileTank
+[08:32:25] [Client thread/WARN]: [IndustrialCraft 2] Error while loading generator hooks.java.lang.ClassNotFoundException: ic2.core.block.generator.tileentity.TileEntityBaseGenerator
+[08:32:25] [Client thread/WARN]: [Thaumcraft] Class not found. java.lang.ClassNotFoundException: thaumcraft.common.Thaumcraft
+[08:32:25] [Client thread/INFO]: [EnderStorage] EnderStorage mod not found.
+[08:32:25] [Client thread/INFO]: [GraveStone] GraveStone mod not found.
+[08:32:25] [Client thread/INFO]: TwilightForestMod mod found.
+[08:32:25] [Client thread/WARN]: [Thermal Expansion] Error while loading Energy Cell hooks.java.lang.ClassNotFoundException: cofh.thermalexpansion.block.cell.TileCell
+[08:32:25] [Client thread/WARN]: [Thermal Expansion] Error while loading Tank hooks.java.lang.ClassNotFoundException: cofh.thermalexpansion.block.tank.TileTank
+[08:32:25] [Client thread/WARN]: [Thermal Expansion] Error while loading Tesseract hooks.java.lang.ClassNotFoundException: cofh.thermalexpansion.block.ender.TileTesseract
+[08:32:25] [Client thread/WARN]: [Thermal Expansion] Error while loading Tesseract hooks.java.lang.ClassNotFoundException: cofh.thermalexpansion.block.cache.TileCache
+[08:32:25] [Client thread/WARN]: [Thermal Dynamics] Error while loading FluidDuct hooks.java.lang.ClassNotFoundException: cofh.thermaldynamics.ducts.fluid.TileFluidDuct
+[08:32:25] [Client thread/INFO]: [Engineer Toolbox] Engineer Toolbox mod not found.
+[08:32:25] [Client thread/INFO]: [ProjectRed] ProjectRed|Integration mod not found.
+[08:32:25] [Client thread/INFO]: [ExtraUtilities] ExtraUtilities mod not found.
+[08:32:25] [Client thread/INFO]: [OpenBlocks] OpenBlocks mod not found.
+[08:32:25] [Client thread/INFO]: [Railcraft] Railcraft mod not found.
+[08:32:25] [Client thread/INFO]: [PamHarvestCraft] PamHarvestCraft mod not found.
+[08:32:25] [Client thread/INFO]: [MagicalCrops] MagicalCrops mod not found.
+[08:32:25] [Client thread/INFO]: [Statues] Statues mod not found.
+[08:32:25] [Client thread/INFO]: [Agriculture] Agriculture mod not found.
+[08:32:25] [Client thread/INFO]: Trying to reflect appeng.integration.modules.Waila register
+[08:32:25] [Client thread/INFO]: Success in registering appliedenergistics2
+[08:32:25] [Client thread/INFO]: Trying to reflect net.bdew.ae2stuff.waila.WailaHandler loadCallback
+[08:32:25] [Client thread/INFO]: Success in registering ae2stuff
+[08:32:25] [Client thread/INFO]: Trying to reflect exnihilo.compatibility.Waila callbackRegister
+[08:32:25] [Client thread/INFO]: Success in registering exnihilo
+[08:32:25] [Client thread/INFO]: Trying to reflect tconstruct.plugins.waila.WailaRegistrar wailaCallback
+[08:32:25] [Client thread/INFO]: [Waila-Compat] Got registrar: mcp.mobius.waila.api.impl.ModuleRegistrar@2b1f53a7
+[08:32:25] [Client thread/INFO]: Success in registering TConstruct
+[08:32:25] [Client thread/INFO]: Trying to reflect ExAstris.Bridge.Waila callbackRegister
+[08:32:25] [Client thread/INFO]: Success in registering exastris
+[08:32:25] [Client thread/INFO]: Trying to reflect net.blay09.mods.excompressum.compat.waila.WailaProvider register
+[08:32:25] [Client thread/INFO]: Success in registering excompressum
+[08:32:25] [Client thread/INFO]: Trying to reflect extracells.integration.waila.Waila register
+[08:32:25] [Client thread/INFO]: Success in registering extracells
+[08:32:25] [Client thread/INFO]: Trying to reflect net.bdew.neiaddons.exnihilo.WailaHandler loadCallback
+[08:32:25] [Client thread/INFO]: Success in registering NEIAddons
+[08:32:25] [Client thread/INFO]: Trying to reflect com.jaquadro.minecraft.storagedrawers.integration.Waila registerProvider
+[08:32:25] [Client thread/INFO]: Success in registering StorageDrawers
+[08:32:25] [Client thread/INFO]: Trying to reflect squeek.wailaharvestability.WailaHandler callbackRegister
+[08:32:25] [Client thread/INFO]: Success in registering WailaHarvestability
+[08:32:25] [Client thread/INFO]: Trying to reflect net.darkhax.wawla.addons.vanillamc.AddonVanillaEntities registerAddon
+[08:32:25] [Client thread/INFO]: Success in registering wawla
+[08:32:25] [Client thread/INFO]: Trying to reflect net.darkhax.wawla.addons.vanillamc.AddonVanillaTiles registerAddon
+[08:32:25] [Client thread/INFO]: Success in registering wawla
+[08:32:25] [Client thread/INFO]: Trying to reflect net.darkhax.wawla.addons.generic.AddonGenericEntities registerAddon
+[08:32:25] [Client thread/INFO]: Success in registering wawla
+[08:32:25] [Client thread/INFO]: Trying to reflect net.darkhax.wawla.addons.generic.AddonGenericTiles registerAddon
+[08:32:25] [Client thread/INFO]: Success in registering wawla
+[08:32:25] [Client thread/INFO]: Trying to reflect net.darkhax.wawla.addons.tinkersconstruct.AddonTinkersTiles registerAddon
+[08:32:25] [Client thread/INFO]: Success in registering wawla
+[08:32:25] [Client thread/INFO]: Forge Mod Loader has successfully loaded 69 mods
+[08:32:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:AbyssalCraft, FMLFileResourcePack:Advanced Rocketry, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:Aether II, FMLFileResourcePack:Anti Id Conflict, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Aquaculture, FMLFileResourcePack:Aroma1997Core|Helper, FMLFileResourcePack:Aroma1997's Dimensional World, FMLFileResourcePack:Baubles, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Botania, FMLFileResourcePack:Controlling, FMLFileResourcePack:Cooking for Blockheads, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ex Astris, FMLFileResourcePack:Ex Nihilo, FMLFileResourcePack:Ex Compressum, FMLFileResourcePack:EXCore, FMLFileResourcePack:Extra Cells 2, FMLFileResourcePack:Extra Planets, FMLFileResourcePack:FlatBedrock Xplosion's Edition, FMLFileResourcePack:Galacticraft Planets, FMLFileResourcePack:Galacticraft Core, FMLFileResourcePack:Garden of Glass, FMLFileResourcePack:Gilded Games Utility, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:libVulpes, FMLFileResourcePack:Mantle, FMLFileResourcePack:More Planets, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:Mystcraft, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Integration, FMLFileResourcePack:OreExcavation, FMLFileResourcePack:Pam's Get all the Seeds!, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Reliquary, FMLFileResourcePack:libsandstone, FMLFileResourcePack:Simply Jetpacks, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:The Betweenlands, FMLFileResourcePack:Erebus, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:UniDict, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:What Are We Looking At
+[08:32:25] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: DefaultEntityDimensions.cfg in M:\Twitch\Instances\DimsGalore\mods\TheErebus-0.4.7.jar
+[08:32:28] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[08:32:28] [Client thread/INFO]: Removed 0 missing texture stacktraces. Tada!
+[08:32:32] [Client thread/INFO]: Created: 2048x2048 textures/items-atlas
+[08:32:32] [Client thread/INFO]: Removed 0 missing texture stacktraces. Tada!
+[08:32:32] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:32:32] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[08:32:32] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[08:32:32] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:32:32] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:32:32] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[08:32:32] [Thread-19/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[08:32:32] [Thread-19/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[08:32:32] [Thread-19/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[08:32:33] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:32:33] [Sound Library Loader/INFO]: Sound engine started
+[08:32:33] [Client thread/ERROR]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[08:32:33] [Client thread/ERROR]: The following texture errors were found.
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]:   DOMAIN minecraft
+[08:32:33] [Client thread/ERROR]: --------------------------------------------------
+[08:32:33] [Client thread/ERROR]:   domain minecraft is missing 7 textures
+[08:32:33] [Client thread/ERROR]:     domain minecraft has 3 locations:
+[08:32:33] [Client thread/ERROR]:       unknown resourcepack type net.minecraft.client.resources.DefaultResourcePack : Default
+[08:32:33] [Client thread/ERROR]:       mod Botania resources at M:\Twitch\Instances\DimsGalore\mods\Botania r1.8-249.jar
+[08:32:33] [Client thread/ERROR]:       mod journeymap resources at M:\Twitch\Instances\DimsGalore\mods\journeymap-1.7.10-5.1.4p2-unlimited.jar
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     The missing resources for domain minecraft are:
+[08:32:33] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_498_loader.png
+[08:32:33] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_4835_extracells.pattern.crafting.png
+[08:32:33] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_473_blockPhantom.png
+[08:32:33] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_474_hatch.png
+[08:32:33] [Client thread/ERROR]:       textures/items/MISSING_ICON_BLOCK_817_gaiaHeadBlock_skeleton.png
+[08:32:33] [Client thread/ERROR]:       textures/blocks/MISSING_ICON_BLOCK_1151_extracells.block.walrus.png
+[08:32:33] [Client thread/ERROR]:       textures/items/MISSING_ICON_ITEM_4832_extracells.fluid.item.png
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     No other errors exist for domain minecraft
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]:   DOMAIN missing_icon_block_1146_excompressum
+[08:32:33] [Client thread/ERROR]: --------------------------------------------------
+[08:32:33] [Client thread/ERROR]:   domain missing_icon_block_1146_excompressum is missing 1 texture
+[08:32:33] [Client thread/ERROR]:     domain missing_icon_block_1146_excompressum is missing a resource manager - it is probably a side-effect of automatic texture processing
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     The missing resources for domain missing_icon_block_1146_excompressum are:
+[08:32:33] [Client thread/ERROR]:       textures/blocks/auto_sieve.png
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     No other errors exist for domain missing_icon_block_1146_excompressum
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]:   DOMAIN botania
+[08:32:33] [Client thread/ERROR]: --------------------------------------------------
+[08:32:33] [Client thread/ERROR]:   domain botania is missing 1 texture
+[08:32:33] [Client thread/ERROR]:     domain botania has 2 locations:
+[08:32:33] [Client thread/ERROR]:       mod Botania resources at M:\Twitch\Instances\DimsGalore\mods\Botania r1.8-249.jar
+[08:32:33] [Client thread/ERROR]:       mod GardenOfGlass resources at M:\Twitch\Instances\DimsGalore\mods\GardenOfGlass.jar
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     The missing resources for domain botania are:
+[08:32:33] [Client thread/ERROR]:       textures/blocks/alt/clayconiaChibi.png
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     No other errors exist for domain botania
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]:   DOMAIN missing_icon_block_1147_excompressum
+[08:32:33] [Client thread/ERROR]: --------------------------------------------------
+[08:32:33] [Client thread/ERROR]:   domain missing_icon_block_1147_excompressum is missing 1 texture
+[08:32:33] [Client thread/ERROR]:     domain missing_icon_block_1147_excompressum is missing a resource manager - it is probably a side-effect of automatic texture processing
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     The missing resources for domain missing_icon_block_1147_excompressum are:
+[08:32:33] [Client thread/ERROR]:       textures/blocks/auto_heavy_sieve.png
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     No other errors exist for domain missing_icon_block_1147_excompressum
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]:   DOMAIN galacticraftmars
+[08:32:33] [Client thread/ERROR]: --------------------------------------------------
+[08:32:33] [Client thread/ERROR]:   domain galacticraftmars is missing 7 textures
+[08:32:33] [Client thread/ERROR]:     domain galacticraftmars has 1 location:
+[08:32:33] [Client thread/ERROR]:       mod GalacticraftMars resources at M:\Twitch\Instances\DimsGalore\mods\Galacticraft-Planets-1.7-3.0.12.504.jar
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     The missing resources for domain galacticraftmars are:
+[08:32:33] [Client thread/ERROR]:       textures/items/key_T8.png
+[08:32:33] [Client thread/ERROR]:       textures/items/key_T7.png
+[08:32:33] [Client thread/ERROR]:       textures/items/key_T10.png
+[08:32:33] [Client thread/ERROR]:       textures/items/key_T4.png
+[08:32:33] [Client thread/ERROR]:       textures/items/key_T5.png
+[08:32:33] [Client thread/ERROR]:       textures/items/key_T9.png
+[08:32:33] [Client thread/ERROR]:       textures/items/key_T6.png
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     No other errors exist for domain galacticraftmars
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]:   DOMAIN harvestcraft
+[08:32:33] [Client thread/ERROR]: --------------------------------------------------
+[08:32:33] [Client thread/ERROR]:   domain harvestcraft is missing 1 texture
+[08:32:33] [Client thread/ERROR]:     domain harvestcraft has 1 location:
+[08:32:33] [Client thread/ERROR]:       mod harvestcraft resources at M:\Twitch\Instances\DimsGalore\mods\Pam's HarvestCraft 1.7.10Lb.jar
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     The missing resources for domain harvestcraft are:
+[08:32:33] [Client thread/ERROR]:       textures/items/chocolaterollItem.png
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     No other errors exist for domain harvestcraft
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]:   DOMAIN missing_icon_block_1149_excompressum
+[08:32:33] [Client thread/ERROR]: --------------------------------------------------
+[08:32:33] [Client thread/ERROR]:   domain missing_icon_block_1149_excompressum is missing 1 texture
+[08:32:33] [Client thread/ERROR]:     domain missing_icon_block_1149_excompressum is missing a resource manager - it is probably a side-effect of automatic texture processing
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     The missing resources for domain missing_icon_block_1149_excompressum are:
+[08:32:33] [Client thread/ERROR]:       textures/blocks/auto_sieve_mana.png
+[08:32:33] [Client thread/ERROR]: -------------------------
+[08:32:33] [Client thread/ERROR]:     No other errors exist for domain missing_icon_block_1149_excompressum
+[08:32:33] [Client thread/ERROR]: ==================================================
+[08:32:33] [Client thread/ERROR]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+[08:32:39] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1992]: Galacticraft successfully injected bytecode into: oi (4 / 4)
+[08:32:39] [Client thread/INFO]: [net.minecraft.client.Minecraft:func_71377_b:349]: ---- Minecraft Crash Report ----
+// Surprise! Haha. Well, this is awkward.
+
+Time: 2/2/20 8:32 AM
+Description: Conflicting potions forced game to crash: 
+
+code.elix_x.coremods.antiidconflict.managers.PotionsManager$PotionsIDConflictException: Conflict between potions with same id caused game to crash.
+Affected ids:
+25 is asked by: potion.Dplague (com.shinoow.abyssalcraft.common.potion.PotionDplague), Slowfall (net.aetherteam.aether.potions.AetherPotion)
+26 is asked by: potion.Antimatter (com.shinoow.abyssalcraft.common.potion.PotionAntimatter), High Steps (net.aetherteam.aether.potions.AetherPotion)
+60 is asked by: potion.infected.gas (stevekung.mods.moreplanets.planets.nibiru.potion.InfectedGasEffect), bl.elixir.sagittarius (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+61 is asked by: potion.chemical (stevekung.mods.moreplanets.planets.kapteynb.potion.ChemicalEffect), bl.elixir.spiderbreed (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+62 is asked by: potion.emp (stevekung.mods.moreplanets.planets.diona.potion.EMPEffect), bl.elixir.lightweight (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+63 is asked by: potion.icy_poison (stevekung.mods.moreplanets.planets.kapteynb.potion.IceCrystalEffect), bl.elixir.unclouded (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+
+	at code.elix_x.coremods.antiidconflict.managers.PotionsManager.crash(PotionsManager.java:215)
+	at code.elix_x.coremods.antiidconflict.managers.PotionsManager.postinit(PotionsManager.java:52)
+	at code.elix_x.coremods.antiidconflict.AntiIdConflictBase.postinit(AntiIdConflictBase.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742)
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 445235456 bytes (424 MB) / 2446852096 bytes (2333 MB) up to 11453595648 bytes (10923 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx12288m -Xms256m -XX:PermSize=256m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 69 mods loaded, 69 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJ	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJ	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJ	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJ	AdvancedRocketryCore{1} [Advanced Rocketry] (minecraft.jar) 
+	UCHIJ	appliedenergistics2-core{rv2-stable-10} [AppliedEnergistics2 Core] (minecraft.jar) 
+	UCHIJ	Aroma1997Core{1.0.2.16} [Aroma1997Core] (Aroma1997Core-1.7.10-1.0.2.16.jar) 
+	UCHIJ	CodeChickenCore{1.0.7.47} [CodeChicken Core] (minecraft.jar) 
+	UCHIJ	Micdoodlecore{} [Micdoodle8 Core] (minecraft.jar) 
+	UCHIJ	NotEnoughItems{1.0.5.120} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.120-universal.jar) 
+	UCHIJ	mod_ThreadedLighting{1.7.10-1.0} [Threaded Lighting] (minecraft.jar) 
+	UCHIJ	gilded-games-util{1.7.10-1.2} [Gilded Games Utility] (gilded-games-util-1.7.10-1.9.jar) 
+	UCHIJ	abyssalcraft{1.9.1.3} [AbyssalCraft] (AbyssalCraft-1.7.10-1.9.1.3-FINAL.jar) 
+	UCHIJ	libVulpes{0.1.19.} [libVulpes] (LibVulpes-1.7.10-0.1.19-universal.jar) 
+	UCHIJ	advancedRocketry{1.0.19b} [Advanced Rocketry] (AdvancedRocketry-1.7.10-1.0.19b.jar) 
+	UCHIJ	appliedenergistics2{rv2-stable-10} [Applied Energistics 2] (appliedenergistics2-rv2-stable-10.jar) 
+	UCHIJ	bdlib{1.9.4.109} [BD Lib] (bdlib-1.9.4.109-mc1.7.10.jar) 
+	UCHIJ	ae2stuff{0.5.0.56} [AE2 Stuff] (ae2stuff-0.5.0.56-mc1.7.10.jar) 
+	UCHIJ	aether{1.7.10-1.6} [Aether II] (aether-1.7.10-1.6.jar) 
+	UCHI	antiidconflict{1.3.5} [Anti Id Conflict] (AntiIdConflict-1.3.5-1.7.10.jar) 
+	UCHI	AppleCore{3.1.1} [AppleCore] (AppleCore-mc1.7.10-3.1.1.jar) 
+	UCHI	Aquaculture{1.2.6} [Aquaculture] (Aquaculture-1.7.10-1.2.6.21.jar) 
+	UCHI	Aroma1997CoreHelper{1.0.2.16} [Aroma1997Core|Helper] (Aroma1997Core-1.7.10-1.0.2.16.jar) 
+	UCHI	Aroma1997sDimension{1.0} [Aroma1997's Dimensional World] (Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar) 
+	UCHI	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10.jar) 
+	UCHI	Botania{r1.8-249} [Botania] (Botania r1.8-249.jar) 
+	UCHI	controlling{1.0.0} [Controlling] (Controlling-1.7.10-1.0.0.jar) 
+	UCHI	cookingbook{1.0.140} [Cooking for Blockheads] (cookingbook-mc1.7.10-1.0.140.jar) 
+	UCHI	endercore{1.7.10-0.2.0.39_beta} [EnderCore] (EnderCore-1.7.10-0.2.0.39_beta.jar) 
+	UCHI	exnihilo{1.38-53} [Ex Nihilo] (Ex-Nihilo-1.38-53.jar) 
+	UCHI	Mantle{1.7.10-0.3.2.jenkins191} [Mantle] (Mantle-1.7.10-0.3.2b.jar) 
+	UCHI	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UCHI	TConstruct{1.7.10-1.8.8.build988} [Tinkers' Construct] (TConstruct-1.7.10-1.8.8.jar) 
+	UCHI	exastris{MC1.7.10-1.16-36} [Ex Astris] (Ex-Astris-MC1.7.10-1.16-36.jar) 
+	UCHI	excompressum{1.2.0} [Ex Compressum] (excompressum-mc1.7.10-1.2.0.jar) 
+	UCHI	excore{1.5.3} [EXCore] (Excore-1.5.3-1.7.10.jar) 
+	UCHI	extracells{2.3.14} [Extra Cells 2] (ExtraCells-1.7.10-2.3.14b200.jar) 
+	UCHI	GalacticraftCore{3.0.12} [Galacticraft Core] (GalacticraftCore-1.7-3.0.12.504.jar) 
+	UCHI	GalacticraftMars{3.0.12} [Galacticraft Planets] (Galacticraft-Planets-1.7-3.0.12.504.jar) 
+	UCHI	ExtraPlanets{1.7.10-2.1.3} [Extra Planets] (ExtraPlanets-1.7.10-2.1.3.jar) 
+	UCHI	FlatBedrockx{1.0.2} [FlatBedrock Xplosion's Edition] (FlatBedrock-1.0.2.jar) 
+	UCHI	GardenOfGlass{sqrt(-1)} [Garden of Glass] (GardenOfGlass.jar) 
+	UCHI	inventorytweaks{1.59-dev-152-cf6e263} [Inventory Tweaks] (InventoryTweaks-1.59-dev-152.jar) 
+	UCHI	IronChest{6.0.62.742} [Iron Chest] (ironchest-1.7.10-6.0.62.742-universal.jar) 
+	UCHI	journeymap{5.1.4p2} [JourneyMap] (journeymap-1.7.10-5.1.4p2-unlimited.jar) 
+	UCHI	MorePlanet{1.4.4} [More Planets] (More-Planets-1.7.10-1.4.4-GC502.jar) 
+	UCHI	MouseTweaks{2.4.4} [Mouse Tweaks] (MouseTweaks-2.4.4-mc1.7.10.jar) 
+	UCHI	Mystcraft{0.12.3.04} [Mystcraft] (mystcraft-1.7.10-0.12.3.04.jar) 
+	UCHI	NEIAddons{1.12.14.40} [NEI Addons] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHI	NEIAddons|Developer{1.12.14.40} [NEI Addons: Developer Tools] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHI	NEIAddons|AppEng{1.12.14.40} [NEI Addons: Applied Energistics 2] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHI	NEIAddons|Botany{1.12.14.40} [NEI Addons: Botany] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHI	NEIAddons|Forestry{1.12.14.40} [NEI Addons: Forestry] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHI	NEIAddons|CraftingTables{1.12.14.40} [NEI Addons: Crafting Tables] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHI	NEIAddons|ExNihilo{1.12.14.40} [NEI Addons: Ex Nihilo] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHI	neiintegration{1.1.2} [NEI Integration] (NEIIntegration-MC1.7.10-1.1.2.jar) 
+	UCHI	oreexcavation{1.1.134} [OreExcavation] (OreExcavation-1.1.134.jar) 
+	UCHI	getalltheseeds{1.7.10a} [Pam's Get all the Seeds!] (Pam's Get all the Seeds 1.7.10a.jar) 
+	UCHI	harvestcraft{1.7.10j} [Pam's HarvestCraft] (Pam's HarvestCraft 1.7.10Lb.jar) 
+	UCHI	libsandstone{1.0.0} [libsandstone] (Reliquary-1.7.10-1.2.1.483.jar) 
+	UCHI	xreliquary{1.2} [Reliquary] (Reliquary-1.7.10-1.2.1.483.jar) 
+	UCHI	simplyjetpacks{1.5.3} [Simply Jetpacks] (SimplyJetpacks-MC1.7.10-1.5.3.jar) 
+	UCHI	StorageDrawers{1.7.10-1.10.9} [Storage Drawers] (StorageDrawers-1.7.10-1.10.9.jar) 
+	UCHI	thebetweenlands{1.0.6-alpha} [The Betweenlands] (TheBetweenlands-1.0.6-alpha-universal.jar) 
+	UCHI	erebus{0.4.7} [Erebus] (TheErebus-0.4.7.jar) 
+	UCHI	TwilightForest{2.3.7} [The Twilight Forest] (twilightforest-1.7.10-2.3.7.jar) 
+	UCHI	WailaHarvestability{1.1.6} [Waila Harvestability] (WailaHarvestability-mc1.7.10-1.1.6.jar) 
+	UCHI	wailaplugins{MC1.7.10-0.2.0-25} [WAILA Plugins] (WAILAPlugins-MC1.7.10-0.2.0-25.jar) 
+	UCHI	wawla{1.3.1} [What Are We Looking At] (Wawla-1.0.5.120.jar) 
+	UCHI	UniDict{1.7.10-2.9.2} [UniDict] (UniDict-1.7.10-2.9.2.jar) 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 441.87' Renderer: 'GeForce GTX 1070/PCIe/SSE2'
+	AE2 Version: stable rv2-stable-10 for Forge 10.13.2.1291
+	Mantle Environment: Environment healthy.
+	TConstruct Environment: Environment healthy.
+	List of loaded APIs: 
+		* AbyssalCraftAPI (1.7) from AbyssalCraft-1.7.10-1.9.1.3-FINAL.jar
+		* AppleCoreAPI (3.1.0) from AppleCore-mc1.7.10-3.1.1.jar
+		* appliedenergistics2|API (rv2) from appliedenergistics2-rv2-stable-10.jar
+		* Baubles|API (1.0.1.4) from Reliquary-1.7.10-1.2.1.483.jar
+		* BotaniaAPI (76) from Botania r1.8-249.jar
+		* CoFHAPI (1.7.10R1.0.13) from EnderCore-1.7.10-0.2.0.39_beta.jar
+		* CoFHAPI|block (1.7.10R1.0.13B2) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHAPI|core (1.7.10R1.0.13B2) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHAPI|energy (1.7.10R1.1.0) from excompressum-mc1.7.10-1.2.0.jar
+		* CoFHAPI|fluid (1.7.10R1.1.0) from excompressum-mc1.7.10-1.2.0.jar
+		* CoFHAPI|inventory (1.7.10R1.1.0) from excompressum-mc1.7.10-1.2.0.jar
+		* CoFHAPI|item (1.7.10R1.1.0) from excompressum-mc1.7.10-1.2.0.jar
+		* CoFHAPI|modhelpers (1.7.10R1.0.13B2) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHAPI|tileentity (1.7.10R1.1.0) from excompressum-mc1.7.10-1.2.0.jar
+		* CoFHAPI|transport (1.7.10R1.0.13) from EnderCore-1.7.10-0.2.0.39_beta.jar
+		* CoFHAPI|world (1.7.10R1.1.0) from excompressum-mc1.7.10-1.2.0.jar
+		* CoFHLib (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|audio (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|gui (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|gui|container (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|gui|element (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|gui|element|listbox (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|gui|slot (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|inventory (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|render (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|render|particle (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|util (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|util|helpers (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|util|position (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|world (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* CoFHLib|world|feature (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.2.1-185.jar
+		* Galacticraft API (1.0) from GalacticraftCore-1.7-3.0.12.504.jar
+		* Mystcraft|API (0.1) from mystcraft-1.7.10-0.12.3.04.jar
+		* StorageDrawersAPI (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.10.9.jar
+		* StorageDrawersAPI|config (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.10.9.jar
+		* StorageDrawersAPI|event (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.10.9.jar
+		* StorageDrawersAPI|inventory (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.10.9.jar
+		* StorageDrawersAPI|pack (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.10.9.jar
+		* StorageDrawersAPI|registry (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.10.9.jar
+		* StorageDrawersAPI|render (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.10.9.jar
+		* StorageDrawersAPI|storage (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.10.9.jar
+		* StorageDrawersAPI|storage-attribute (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.10.9.jar
+		* Thaumcraft|API (4.2.2.0) from Pam's HarvestCraft 1.7.10Lb.jar
+		* WailaAPI (1.2) from Waila-1.5.10_1.7.10.jar
+	AE2 Integration: IC2:OFF, RotaryCraft:OFF, RC:OFF, BC:OFF, RF:ON, RFItem:ON, MFR:OFF, DSU:ON, FZ:OFF, FMP:OFF, RB:OFF, CLApi:OFF, Waila:ON, InvTweaks:ON, NEI:ON, CraftGuide:OFF, Mekanism:OFF, ImmibisMicroblocks:OFF, BetterStorage:OFF
+[08:32:39] [Client thread/INFO]: [net.minecraft.client.Minecraft:func_71377_b:359]: #@!@# Game crashed! Crash report saved to: #@!@# M:\Twitch\Instances\DimsGalore\crash-reports\crash-2020-02-02_08.32.39-client.txt

@@ -1,0 +1,260 @@
+Total amount of free potion ids: 189
+Total amount of occupied potion ids: 67
+Total amount of conflicted potion ids: 6
+All ids and their position:
+0 is Avaible
+1 is Occupied by potion.moveSpeed (net.minecraft.potion.Potion)
+2 is Occupied by potion.moveSlowdown (net.minecraft.potion.Potion)
+3 is Occupied by potion.digSpeed (net.minecraft.potion.Potion)
+4 is Occupied by potion.digSlowDown (net.minecraft.potion.Potion)
+5 is Occupied by potion.damageBoost (net.minecraft.potion.PotionAttackDamage)
+6 is Occupied by potion.heal (net.minecraft.potion.PotionHealth)
+7 is Occupied by potion.harm (net.minecraft.potion.PotionHealth)
+8 is Occupied by potion.jump (net.minecraft.potion.Potion)
+9 is Occupied by potion.confusion (net.minecraft.potion.Potion)
+10 is Occupied by potion.regeneration (net.minecraft.potion.Potion)
+11 is Occupied by potion.resistance (net.minecraft.potion.Potion)
+12 is Occupied by potion.fireResistance (net.minecraft.potion.Potion)
+13 is Occupied by potion.waterBreathing (net.minecraft.potion.Potion)
+14 is Occupied by potion.invisibility (net.minecraft.potion.Potion)
+15 is Occupied by potion.blindness (net.minecraft.potion.Potion)
+16 is Occupied by potion.nightVision (net.minecraft.potion.Potion)
+17 is Occupied by potion.hunger (net.minecraft.potion.Potion)
+18 is Occupied by potion.weakness (net.minecraft.potion.PotionAttackDamage)
+19 is Occupied by potion.poison (net.minecraft.potion.Potion)
+20 is Occupied by potion.wither (net.minecraft.potion.Potion)
+21 is Occupied by potion.healthBoost (net.minecraft.potion.PotionHealthBoost)
+22 is Occupied by potion.absorption (net.minecraft.potion.PotionAbsoption)
+23 is Occupied by potion.saturation (net.minecraft.potion.PotionHealth)
+24 is Occupied by potion.Cplague (com.shinoow.abyssalcraft.common.potion.PotionCplague)
+25 is asked by: potion.Dplague (com.shinoow.abyssalcraft.common.potion.PotionDplague), Slowfall (net.aetherteam.aether.potions.AetherPotion)
+26 is asked by: potion.Antimatter (com.shinoow.abyssalcraft.common.potion.PotionAntimatter), High Steps (net.aetherteam.aether.potions.AetherPotion)
+27 is Avaible
+28 is Avaible
+29 is Avaible
+30 is Avaible
+31 is Avaible
+32 is Avaible
+33 is Avaible
+34 is Avaible
+35 is Avaible
+36 is Avaible
+37 is Avaible
+38 is Avaible
+39 is Avaible
+40 is Avaible
+41 is Avaible
+42 is Avaible
+43 is Avaible
+44 is Avaible
+45 is Avaible
+46 is Avaible
+47 is Avaible
+48 is Avaible
+49 is Avaible
+50 is Occupied by bl.elixir.strength (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+51 is Occupied by bl.elixir.nimblefeet (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+52 is Occupied by bl.elixir.healing (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+53 is Occupied by bl.elixir.ripening (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+54 is Occupied by bl.elixir.toughskin (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+55 is Occupied by bl.elixir.feasting (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+56 is Occupied by bl.elixir.huntersSense (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+57 is Occupied by bl.elixir.masking (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+58 is Occupied by bl.elixir.swiftarm (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+59 is Occupied by bl.elixir.catsEyes (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+60 is asked by: potion.infected.gas (stevekung.mods.moreplanets.planets.nibiru.potion.InfectedGasEffect), bl.elixir.sagittarius (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+61 is asked by: potion.chemical (stevekung.mods.moreplanets.planets.kapteynb.potion.ChemicalEffect), bl.elixir.spiderbreed (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+62 is asked by: potion.emp (stevekung.mods.moreplanets.planets.diona.potion.EMPEffect), bl.elixir.lightweight (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+63 is asked by: potion.icy_poison (stevekung.mods.moreplanets.planets.kapteynb.potion.IceCrystalEffect), bl.elixir.unclouded (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+64 is Occupied by bl.elixir.gillsgrowth (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+65 is Occupied by bl.elixir.wings (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+66 is Occupied by bl.elixir.huntersSenseMaster (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+67 is Occupied by bl.elixir.weakness (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+68 is Occupied by bl.elixir.lumbering (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+69 is Occupied by bl.elixir.draining (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+70 is Occupied by bl.elixir.decay (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+71 is Occupied by bl.elixir.poisonsting (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+72 is Occupied by bl.elixir.starvation (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+73 is Occupied by bl.elixir.drunkard (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+74 is Occupied by bl.elixir.stenching (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+75 is Occupied by bl.elixir.slugarm (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+76 is Occupied by bl.elixir.blindman (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+77 is Occupied by bl.elixir.weakbow (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+78 is Occupied by bl.elixir.basilisk (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+79 is Occupied by bl.elixir.heavyweight (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+80 is Occupied by bl.elixir.foggedMind (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+81 is Occupied by bl.elixir.deformed (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+82 is Occupied by bl.elixir.limbless (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+83 is Occupied by bl.elixir.isolatedSenses (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+84 is Occupied by bl.elixir.petrify (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
+85 is Avaible
+86 is Avaible
+87 is Avaible
+88 is Avaible
+89 is Avaible
+90 is Avaible
+91 is Occupied by botania.potion.soulCross (vazkii.botania.common.brew.potion.PotionSoulCross)
+92 is Occupied by botania.potion.featherFeet (vazkii.botania.common.brew.potion.PotionFeatherfeet)
+93 is Occupied by botania.potion.emptiness (vazkii.botania.common.brew.potion.PotionEmptiness)
+94 is Occupied by botania.potion.bloodthirst (vazkii.botania.common.brew.potion.PotionBloodthirst)
+95 is Occupied by botania.potion.allure (vazkii.botania.common.brew.potion.PotionAllure)
+96 is Occupied by botania.potion.clear (vazkii.botania.common.brew.potion.PotionClear)
+97 is Avaible
+98 is Avaible
+99 is Avaible
+100 is Avaible
+101 is Avaible
+102 is Avaible
+103 is Avaible
+104 is Avaible
+105 is Avaible
+106 is Avaible
+107 is Avaible
+108 is Avaible
+109 is Avaible
+110 is Avaible
+111 is Avaible
+112 is Avaible
+113 is Avaible
+114 is Avaible
+115 is Avaible
+116 is Avaible
+117 is Avaible
+118 is Avaible
+119 is Avaible
+120 is Avaible
+121 is Avaible
+122 is Avaible
+123 is Avaible
+124 is Avaible
+125 is Avaible
+126 is Avaible
+127 is Avaible
+128 is Avaible
+129 is Avaible
+130 is Avaible
+131 is Avaible
+132 is Avaible
+133 is Avaible
+134 is Avaible
+135 is Avaible
+136 is Avaible
+137 is Avaible
+138 is Avaible
+139 is Avaible
+140 is Avaible
+141 is Avaible
+142 is Avaible
+143 is Avaible
+144 is Avaible
+145 is Avaible
+146 is Avaible
+147 is Avaible
+148 is Avaible
+149 is Avaible
+150 is Avaible
+151 is Avaible
+152 is Avaible
+153 is Avaible
+154 is Avaible
+155 is Avaible
+156 is Avaible
+157 is Avaible
+158 is Avaible
+159 is Avaible
+160 is Avaible
+161 is Avaible
+162 is Avaible
+163 is Avaible
+164 is Avaible
+165 is Avaible
+166 is Avaible
+167 is Avaible
+168 is Avaible
+169 is Avaible
+170 is Avaible
+171 is Avaible
+172 is Avaible
+173 is Avaible
+174 is Avaible
+175 is Avaible
+176 is Avaible
+177 is Avaible
+178 is Avaible
+179 is Avaible
+180 is Avaible
+181 is Avaible
+182 is Avaible
+183 is Avaible
+184 is Avaible
+185 is Avaible
+186 is Avaible
+187 is Avaible
+188 is Avaible
+189 is Avaible
+190 is Avaible
+191 is Avaible
+192 is Avaible
+193 is Avaible
+194 is Avaible
+195 is Avaible
+196 is Avaible
+197 is Avaible
+198 is Avaible
+199 is Avaible
+200 is Avaible
+201 is Avaible
+202 is Avaible
+203 is Avaible
+204 is Avaible
+205 is Avaible
+206 is Avaible
+207 is Avaible
+208 is Avaible
+209 is Avaible
+210 is Avaible
+211 is Avaible
+212 is Avaible
+213 is Avaible
+214 is Avaible
+215 is Avaible
+216 is Avaible
+217 is Avaible
+218 is Avaible
+219 is Avaible
+220 is Avaible
+221 is Avaible
+222 is Avaible
+223 is Avaible
+224 is Avaible
+225 is Avaible
+226 is Avaible
+227 is Avaible
+228 is Avaible
+229 is Avaible
+230 is Avaible
+231 is Avaible
+232 is Avaible
+233 is Avaible
+234 is Avaible
+235 is Avaible
+236 is Avaible
+237 is Avaible
+238 is Avaible
+239 is Avaible
+240 is Avaible
+241 is Avaible
+242 is Avaible
+243 is Avaible
+244 is Avaible
+245 is Avaible
+246 is Avaible
+247 is Avaible
+248 is Avaible
+249 is Avaible
+250 is Avaible
+251 is Avaible
+252 is Avaible
+253 is Avaible
+254 is Avaible
+255 is Avaible
